@@ -1,0 +1,88 @@
+---
+title: "Teaching"
+output:
+  html_document:
+    theme: flatly
+    css: styles.css
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+<div class="section-block" style="margin-bottom: 32px;">
+<h2 style="border-bottom: none; margin-bottom: 6px;">Teaching Experience</h2>
+<p style="color: #7a7a72; margin: 0; font-size: 1.1 rem;">Teaching assistantships across Emory University and Rutgers University.</p>
+</div>
+
+<!-- EMORY -->
+<div class="section-block">
+<h2>Emory University – Rollins School of Public Health</h2>
+
+<table class="teach-table">
+  <thead>
+    <tr>
+      <th>Semester</th>
+      <th>Course</th>
+      <th>Code</th>
+      <th>Role</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Spring 2026</td>
+      <td>Fundamentals of Epidemiology</td>
+      <td>EPI 504</td>
+      <td>Teaching Assistant</td>
+    </tr>
+    <tr>
+      <td>Fall 2025</td>
+      <td>Statistical Programming</td>
+      <td>EPI 534</td>
+      <td>Teaching Assistant</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<!-- RUTGERS -->
+<div class="section-block">
+<h2>Rutgers Business School</h2>
+
+<table class="teach-table">
+  <thead>
+    <tr>
+      <th>Semester</th>
+      <th>Course</th>
+      <th>Code</th>
+      <th>Role</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Spring 2024</td>
+      <td>Large Scale Data Analysis</td>
+      <td>BAIT 487</td>
+      <td>Teaching Assistant</td>
+    </tr>
+    <tr>
+      <td>Fall 2023</td>
+      <td>Foundation of Business Programming</td>
+      <td>BAIT 388</td>
+      <td>Teaching Assistant</td>
+    </tr>
+    <tr>
+      <td>Spring 2023</td>
+      <td>Statistical Methods for Business</td>
+      <td>BAIT 385</td>
+      <td>Teaching Assistant</td>
+    </tr>
+    <tr>
+      <td>Fall 2022</td>
+      <td>Statistical Methods for Business</td>
+      <td>BAIT 385</td>
+      <td>Teaching Assistant</td>
+    </tr>
+  </tbody>
+</table>
+</div>

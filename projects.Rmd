@@ -1,0 +1,45 @@
+---
+title: "Projects"
+output:
+  html_document:
+    theme: flatly
+    css: styles.css
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+<div class="section-block" style="margin-bottom: 32px;">
+<h2 style="border-bottom: none; margin-bottom: 6px;">Graduate Projects</h2>
+<p style="color: #7a7a72; margin: 0; font-size: 1.2 rem;">Selected data science and public health projects from my graduate studies at Emory University.</p>
+</div>
+
+
+<!-- PROJECT 1: FNGaP -->
+<div class="project-card">
+  <h3>Filling the Nutrition Gap (FNGAP)</h3>
+  <p>A collaborative research project with CARE Nepal examining how women's empowerment and land ownership shape dietary diversity among 516 rural households in Nepal. Built logistic regression models to evaluate key associations, and designed an interactive dashboard to help CARE Nepal field staff translate findings into data-driven program decisions.</p>
+  <a class="btn-link" href="https://miaaayang.github.io/FNGAP_Data555/" target="_blank">View on GitHub →</a>
+</div>
+<!-- PROJECT 2: Medical Insurance -->
+<div class="project-card" style="grid-column: 1 / -1;">
+  <h3>Modeling Medical Insurance Charges Using Demographic & Lifestyle Factors</h3>
+  <p>
+    Analyzed the Health Insurance Costs dataset to examine how age, sex, BMI, smoking status,
+    number of children, and geographic region influence medical expenses. The project produced
+    one summary table (participant characteristics by High vs Low charge group) and two figures, 
+    a boxplot of charges by region and a scatter plot of BMI vs. charges by smoking status.
+    Built with a fully reproducible pipeline using R, renv, a Makefile, and Docker.
+  </p>
+  <a class="btn-link" href="https://github.com/MiaaaYang/Final_Medical_Insurance" target="_blank">View on GitHub →</a>
+</div>
+
+
+<!-- PROJECT 3: HIV AFAB -->
+<div class="project-card">
+  <h3>HIV Risk Factor Analysis Among Cisgender Women</h3>
+  <p>A data analysis project at Emory University School of Medicine examining HIV risk factors in a dataset of 330,000+ cisgender women. Built and ran univariate and multivariable logistic regression models in R to assess behavioral and structural exposures, applied DAG methods to identify confounders, and collaborated with a cross-functional team of MDs and data scientists to translate findings into insights for HIV prevention. Data is confidential and not publicly available.</p>
+</div>
+
+

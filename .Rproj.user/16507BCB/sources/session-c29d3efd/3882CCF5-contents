@@ -1,0 +1,26 @@
+name: "mia-yang-website"
+output_dir: "docs"
+navbar:
+  title: "Mia (Mingya) Yang 杨茗雅"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Projects"
+      href: projects.html
+    - text: "Resume"
+      href: resume.html
+    - text: "Teaching"
+      href: teaching.html
+  right:
+    - text: "LinkedIn"
+      href: "https://www.linkedin.com/in/mia-yang"
+      icon: fa-linkedin
+    - text: "GitHub"
+      href: "https://github.com/MiaaaYang"
+      icon: fa-github
+output:
+  html_document:
+    theme: flatly
+    css: styles.css
+    highlight: tango
+    self_contained: false

@@ -1,0 +1,53 @@
+---
+title: ""
+output:
+  html_document:
+    theme: flatly
+    css: styles.css
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+<!-- HERO SECTION -->
+<div class="hero-section">
+<img class="hero-photo" src="profile.jpg" alt="Mia Yang">
+<div class="hero-text">
+
+## Mia (Mingya) Yang 杨茗雅
+
+MPH · Epidemiology & Data Science @ Emory University
+
+B.S. · Statistics & Business Analytics @ Rutgers University
+
+📧 [myan327@emory.edu](mailto:myan327@emory.edu)
+
+</div>
+</div>
+
+<!-- ABOUT ME -->
+<div class="section-block">
+<h2 style="font-size: 2rem;">About Me</h2>
+<p>Hi! I am an incoming <strong>Business Intelligence Intern @ <a href="https://inspirebrands.com/" target="_blank">Inspire Brands</a>!</strong></p>
+<p>I will be receiving my <strong>MPH in Epidemiology</strong> (concentrating in Data Science) from <a href="https://sph.emory.edu/" target="_blank"><strong>Emory University</a></strong> in May 2026. Prior to that, I received my <strong>B.S. in Statistics and Business Analytics</strong> from <a href="https://statistics.rutgers.edu/" target="_blank"><strong>Rutgers University</a></strong> in May 2024.</p>
+</div>
+
+<!-- RESEARCH INTERESTS -->
+<div class="section-block">
+<h2 style="font-size: 2rem;">Research Interests</h2>
+<p>My research interests primarily focus on <strong>infectious disease modeling</strong>. I am also interested in building innovative models that blend statistical inference and machine learning techniques to inform outbreak response and guide public health decisions.</p>
+</div>
+
+<!-- OTHER INTERESTS -->
+<div class="section-block">
+<h2 style="font-size: 2rem;">Other Areas of Interest</h2>
+<p>I'm also a <strong>Math and Statistics enthusiast</strong> — particularly drawn to Probability Theory and Monte Carlo Simulation methods.</p>
+<p>Outside of school and work, I enjoy poker, video and board games, golf, skating, and snowboarding. ♟️⛳🎿</p>
+</div>
+
+<!-- MOTTO -->
+<div class="section-block motto-block">
+<h2 style="border-bottom: none; margin-bottom: 8px; font-size: 1.0rem; color: var(--terra); text-transform: uppercase; letter-spacing: 0.12em; font-family: 'DM Sans', sans-serif;">Motto</h2>
+<p>"When things are too difficult, just keep doing it and you will make it — statistically speaking."</p>
+</div>
