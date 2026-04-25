@@ -3,7 +3,7 @@
     "path": "~/Desktop/Data555_web_Mia/resume.Rmd",
     "project_path": "resume.Rmd",
     "type": "r_markdown",
-    "hash": "2145142883",
+    "hash": "4223518798",
     "contents": "",
     "dirty": false,
     "created": 1776910674562.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "21,0",
+        "cursorPosition": "17,144",
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1776917503,
+    "lastKnownWriteTime": 1777157115,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1776917503122,
+    "last_content_update": 1777157115161,
     "read_only": false,
     "read_only_alternatives": []
 }
